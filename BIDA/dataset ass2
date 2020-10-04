@@ -1,0 +1,3 @@
+create own data set
+field cust_name,country,postal_code,region,state,ship_mode,date,day_in_week,day_of_month,fin_month,fin_quarter,fin_year,
+category,sub_category,Product_name,order_date,sales,profit
